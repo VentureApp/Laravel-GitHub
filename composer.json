@@ -1,5 +1,6 @@
 {
-    "name": "graham-campbell/github",
+    "version": "6.0.0",
+    "name": "ventureapp/github",
     "description": "GitHub Is A GitHub Bridge For Laravel 5",
     "keywords": ["laravel", "framework", "github", "php-github-api", "PHP GitHub API", "github bridge", "bridge", "GitHub", "Laravel GitHub", "Laravel-GitHub", "Graham Campbell", "GrahamCampbell"],
     "license": "MIT",
@@ -14,7 +15,7 @@
         "illuminate/contracts": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*",
         "illuminate/support": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*",
         "graham-campbell/manager": "^3.0",
-        "knplabs/github-api": "2.5.*"
+        "ventureapp/github-api": "dev-master"
     },
     "require-dev": {
         "graham-campbell/analyzer": "^1.1",
